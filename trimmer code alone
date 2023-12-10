@@ -1,0 +1,30 @@
+int pin0=A0;
+int pin1=A1;
+float value0;
+float value1;
+float volt0;
+float volt1;
+float diff;
+
+
+void setup() {
+  // put your setup code here, to run once:
+pinMode (pin0, IMPUT);
+pinMode (pin1,IMPUT);
+Serial.begin (9600);
+}
+
+
+void loop () {
+  //put your main code here, to run repeatedly:
+value0=analogRead(pin0);
+value1=analogRead(pin1);
+volt0=value0*5/1023;
+volt1=value1*5/1023;
+diff=volt0-volt1;
+Serial.print(volt0);
+Serial.print(" ,  ");
+Serial.print(volt1);
+Serial.print("  , ")
+Serial.print(diff);
+}
