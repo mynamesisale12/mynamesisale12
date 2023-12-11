@@ -6,12 +6,12 @@ int pinServo = 9;  // Specifies the digital pin to which the servo control is co
 
 void setup() {
   mioServo.attach(pinServo);  // Connect the Servo object to the servo control pin
-}
+   }
 
-void loop() {
-  // Moves the servo from left to right
-  mioServo.write(0);  // minium angle (sinistra)
-  delay(1000);        // wait 1 seconds
-  mioServo.write(180);  // Maximum angle (right)
-  delay(1000);        // wait 1 seconds
-}
+        void loop() {
+        // Moves the servo from left to right
+        mioServo.write(0);  // minium angle (sinistra)
+        delay(1000);        // wait 1 seconds
+        mioServo.write(180);  // Maximum angle (right)
+        delay(1000);        // wait 1 seconds
+   }
