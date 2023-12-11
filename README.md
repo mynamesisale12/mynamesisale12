@@ -2,6 +2,6 @@
 - 👀 I’m interested in code for arduino and example python,java script,java ecc. 
 - 🌱 I bring content especially for Arduino
 - passionate about coding
-- script for fiveM 
-  
-
+- script for fiveM
+- you can find tutorials on my youtube channel (the link)
+- https://www.youtube.com/channel/UCn-fb5zA2dIawiRyjwdpG7A     (copy and paste)
