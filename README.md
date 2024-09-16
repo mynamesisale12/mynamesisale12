@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mynamesisale12
-- 👀 I’m interested in code for arduino and example python,java script,java ecc. 
-- 🌱 I bring content especially for Arduino
+- 👋 Hi, I’m @ternox
+- 👀 I’m interested in code for arduino and example python,java script,c++ ecc. 
+- 🌱 I bring content especially for all programs
 - passionate about coding
-- script for fiveM
-- you can find tutorials on my youtube channel (the link)
-- https://www.youtube.com/channel/UCn-fb5zA2dIawiRyjwdpG7A     (copy and paste)
+- can you contact me for collab or do you need help
+- my email... mynamesisale@gmail.com
+- all you need contact me 
